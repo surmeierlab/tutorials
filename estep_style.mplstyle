@@ -1,8 +1,6 @@
 # Author: Chad Estep (chadestep.github.io / github.com/chadestep / chadestep@gmail.com)
 # "Because we're scientists, not graphic fucking designers."
 
-backend : pdf
-
 pdf.fonttype : 42
 
 figure.figsize   : 10, 5
